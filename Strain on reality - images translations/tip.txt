@@ -1,0 +1,26 @@
+tip.png
+
+Informacja
+
+Aby umieœciæ klejnot na miejscu
+dotknij klejnot na dole ekranu.
+Klejnoty bêd¹ umieszczane zgodnie
+z ruchem wskazówek zegara w kolejnoœci
+jak na obrazku.
+
+Jeœli chcesz zacz¹æ od pocz¹tku
+naciœnij przycisk "Usuñ wszystkie".
+
+Mo¿esz wyjœæ w ka¿dej chwili
+przy u¿yciu przycisku "WyjdŸ".
+Wszystkie dokonane wybory zostan¹
+zachowane.
+
+Gdy umieœcisz wszystkie klejnoty,
+pojawi siê opcja "Akceptuj"
+kombinacjê.
+
+Miej na uwadze, ¿e gdy potwierdzisz
+swój wybór nie bêdzie ju¿ odwrotu!
+
+Naciœnij ¿eby zamkn¹æ pomoc...
